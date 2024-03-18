@@ -2,9 +2,9 @@ import React from 'react'
 
 function App() {
   return (
-    <div> 
-      <div>
-        <input type="text" />
+    <div className=' '> 
+      <div className='mt-64'>
+        <input type=" text" placeholder='Add' />
       </div>
     </div>
   )
